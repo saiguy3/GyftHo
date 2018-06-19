@@ -2,6 +2,6 @@
 Making buying easy #fast
 
 ## Technologies Used
-* Bootstrap
+* Bootstrap (HTML, CSS, JS)
 
 *Made for HS Hacks II*
