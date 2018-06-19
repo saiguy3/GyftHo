@@ -1,8 +1,7 @@
 # GyftHo
-*Description*
 Making buying easy #fast
 
-*Technologies Used*
+## Technologies Used
 * Bootstrap
 
 *Made for HS Hacks II*
